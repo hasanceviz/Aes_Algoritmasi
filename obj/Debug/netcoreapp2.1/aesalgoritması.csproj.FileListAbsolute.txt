@@ -1,0 +1,4 @@
+C:\Users\pc\source\repos\aesalgoritması\obj\Debug\netcoreapp2.1\aesalgoritması.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\aesalgoritması\obj\Debug\netcoreapp2.1\aesalgoritması.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\aesalgoritması\obj\Debug\netcoreapp2.1\aesalgoritması.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\aesalgoritması\obj\Debug\netcoreapp2.1\aesalgoritması.AssemblyInfo.cs
